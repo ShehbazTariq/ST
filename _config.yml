@@ -13,8 +13,8 @@ title_separator          : "-"
 name                     : &name "Shehbaz Tariq"
 description              : &description "Graduate Research Assistant at Kyung Hee University"
 url                      : https://shehbaztariq.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "ST" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+baseurl                  : "/ST" # the subpath of your site, e.g. "/blog"
+repository               : "ShehbazTariq/ST"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Yongin, South Korea"
-  employer         : "Red Brick University"
+  employer         : "Kyung Hee University"
   uri              : # URL
   email            : "shehbaz@khu.ac.kr" 
 
